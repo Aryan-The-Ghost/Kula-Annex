@@ -33,10 +33,10 @@ Flexbox & Grid for layout
 To run this project locally:
 
 1. Clone the repo:
-   git clone https://github.com/your-username/yoga-website.git
+   git clone https://github.com/Aryan-The-Ghost/Kula-Annex.git
 
 2. Navigate to the project folder:
-   cd yoga-website
+   cd Kula-Annex
    
 3. Open index.html in your browser:
    open index.html  # MacOS
@@ -52,7 +52,7 @@ This project is open source and available under the MIT License.
 💬 Acknowledgements
 Inspired by modern yoga studios and mindful design
 
-Icons & SVGs by Feather Icons
+SVGs by svgrepo and images custom made on Canva
 
 Images sourced for educational purposes
 
